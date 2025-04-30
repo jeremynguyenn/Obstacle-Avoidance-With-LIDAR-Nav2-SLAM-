@@ -26,4 +26,7 @@ The project employs SLAM techniques to enable the robot to create a 2D visual ma
 Nav2 (Navigation2)
 Nav2 is utilized to enhance the robot's navigation capabilities, enabling it to efficiently plan and execute paths while avoiding obstacles in real-time.
 
+#### Map
+https://github.com/jeremynguyenn/Obstacle-Avoidance-With-LIDAR-Nav2-SLAM-/blob/main/Obstacle-Avoidance/floorplan_example.png
+
 #### Demo
