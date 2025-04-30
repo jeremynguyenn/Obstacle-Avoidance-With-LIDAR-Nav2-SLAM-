@@ -30,4 +30,4 @@ Nav2 is utilized to enhance the robot's navigation capabilities, enabling it to 
 https://github.com/jeremynguyenn/Obstacle-Avoidance-With-LIDAR-Nav2-SLAM-/blob/main/Obstacle-Avoidance/floorplan_example.png
 
 #### Demo
-![IigD3B7]https://github.com/IbrahimXXs/Obstacle-Avoidance-With-LIDAR-Sensor-ROS2-Nav2-SLAM/assets/146712453/93918dce-72ff-45b6-b217-5f2d706f8c9c
+https://github.com/IbrahimXXs/Obstacle-Avoidance-With-LIDAR-Sensor-ROS2-Nav2-SLAM/assets/146712453/93918dce-72ff-45b6-b217-5f2d706f8c9c
