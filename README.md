@@ -27,7 +27,8 @@ Nav2 (Navigation2)
 Nav2 is utilized to enhance the robot's navigation capabilities, enabling it to efficiently plan and execute paths while avoiding obstacles in real-time.
 
 #### Map
-https://github.com/jeremynguyenn/Obstacle-Avoidance-With-LIDAR-Nav2-SLAM-/blob/main/Obstacle-Avoidance/floorplan_example.png
+![map](https://github.com/jeremynguyenn/Obstacle-Avoidance-With-LIDAR-Nav2-SLAM-/blob/main/Obstacle-Avoidance/floorplan_example.png)
+
 
 #### Demo
 https://github.com/IbrahimXXs/Obstacle-Avoidance-With-LIDAR-Sensor-ROS2-Nav2-SLAM/assets/146712453/93918dce-72ff-45b6-b217-5f2d706f8c9c
